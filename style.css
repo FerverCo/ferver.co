@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#calendar {
+    margin: 20px auto;
+    width: 300px;
+    height: 300px;
+    border: 1px solid #ccc;
+}
+
+#booking-form {
+    margin: 20px auto;
+    width: 300px;
+    text-align: left;
+}
+
+#booking-form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+#booking-form input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
